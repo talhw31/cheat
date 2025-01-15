@@ -10,5 +10,11 @@
     "expiration_date": "2025-02-01 00:00:00",
     "mac_address": "00:1A:2B:3C:4D:5E",
     "license_info": "Other info"
+  },
+  "PROXY2025": {
+    "is_active": true,
+    "expiration_date": "2025-12-31 23:59:59",
+    "mac_address": "",
+    "license_info": "PROXY2025 License"
   }
 }
